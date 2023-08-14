@@ -1,5 +1,7 @@
 # Mercor-Hackathon
 
+> If you're using this project , **remember to set the OpenAI API key** in `main.py`.
+
 follow the installation instructions to get started.
 
 * 1
