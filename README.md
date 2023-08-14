@@ -2,8 +2,9 @@
 
 follow the installation instructions to get started.
 
-• Fork the repository 
-
+'''
+Fork the repository 
+'''
 • Clone the repo
 
 • Open the repo in your VS Code
