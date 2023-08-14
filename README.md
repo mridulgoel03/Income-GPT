@@ -6,7 +6,7 @@ follow the installation instructions to get started.
 ```
 Fork the repository 
 ```
-*2
+* 2
 ```
 Clone the repo
 ```
