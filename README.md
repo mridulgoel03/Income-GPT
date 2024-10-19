@@ -1,4 +1,4 @@
-# Mercor Hackathon
+# Income GPT Mercor Hackathon Project
 
 Welcome to the Mercor Hackathon project! Follow the instructions below to set up your development environment and get started.
 
